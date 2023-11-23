@@ -17,7 +17,7 @@ class Header extends HTMLElement {
                         <div class="header-logo">
                             <a href="index.html">
                                 <img class="dark-logo" src="assets/images/jr.png" alt="Learts Logo">
-                                <img class="light-logo" src="assets/images/logo.pn" alt="Learts Logo">
+                                <img class="light-logo" src="assets/images/jr.png" alt="Learts Logo">
                             </a>
                         </div>
                     </div>
@@ -114,7 +114,8 @@ class Header extends HTMLElement {
                                         <li><a href="become-a-teacher.html"><span class="menu-text">Become a
                                                     Teacher</span></a></li>
                                         <li><a href="#"><span class="menu-text">Profile</span></a></li>
-                                        <li><a href="checkout.html"><span class="menu-text">Checkout</span></a></li>
+                                        <li><a href="#"><span class="menu-text">Checkout</span></a></li>-->
+                                        <!--<li><a href="checkout.html"><span class="menu-text">Checkout</span></a></li>-->
                                         <li class="has-children">
                                             <a href="course-details-sticky-feature-bar.html"><span
                                                     class="menu-text">Single Layout</span></a>
@@ -219,10 +220,14 @@ class Header extends HTMLElement {
                                                     <span class="amount">$119.00</span>
                                                 </div>
                                                 <div class="mini-cart-buttons">
-                                                    <a href="shopping-cart.html"
+                                                    <a href="#"
+                                                        class="btn btn-primary btn-hover-secondary">View Cart</a>
+                                                    <a href="#"
+                                                        class="btn btn-primary btn-hover-secondary">Checkout</a>
+                                                    <!--<a href="shopping-cart.html"
                                                         class="btn btn-primary btn-hover-secondary">View Cart</a>
                                                     <a href="checkout.html"
-                                                        class="btn btn-primary btn-hover-secondary">Checkout</a>
+                                                        class="btn btn-primary btn-hover-secondary">Checkout</a>-->
                                                 </div>
                                             </div>
                                         </div>
@@ -230,7 +235,8 @@ class Header extends HTMLElement {
                                 </div>
 
                                 <div class="header-login">
-                                    <a href="profile.html"><i class="far fa-user-circle"></i></a>
+                                    <a href="#"><i class="far fa-user-circle"></i></a>
+                                    <!--<a href="profile.html"><i class="far fa-user-circle"></i></a>-->
                                 </div>
 
                                 <div class="header-search">
