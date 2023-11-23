@@ -22,7 +22,7 @@ class Courses extends HTMLElement {
                 <div class="col max-mb-30" data-aos="fade-up">
                     <div class="course-4">
                         <div class="thumbnail">
-                            <a href="course-details-standard-sidebar.html" class="image"><img src="assets/images/courses/frontend.jpg" alt="Course Image"></a>
+                            <a href="#" class="image"><img src="assets/images/courses/frontend.jpg" alt="Course Image"></a>
                         </div>
                         <div class="info">
                             <span class="price">$84<span>.00</span></span>
@@ -32,7 +32,7 @@ class Courses extends HTMLElement {
                                 </div>
                                 <span class="instructor-name">Prasad Junghare</span>
                             </div>
-                            <h3 class="title"><a href="course-details-standard-sidebar.html">Learning to Write as a Professional Front End Dev</a></h3>
+                            <h3 class="title"><a href="#">Learning to Write as a Professional Front End Dev</a></h3>
                             <ul class="meta">
                                 <li><i class="fas fa-file-alt"></i>20 Lessons</li>
                                 <li><i class="fas fa-user-alt"></i>5 Students Pre-batch</li>
@@ -46,7 +46,7 @@ class Courses extends HTMLElement {
                 <div class="col max-mb-30" data-aos="fade-up">
                     <div class="course-4">
                         <div class="thumbnail">
-                            <a href="course-details-standard-sidebar.html" class="image"><img src="assets/images/courses/github.jpg" alt="Course Image"></a>
+                            <a href="#" class="image"><img src="assets/images/courses/github.jpg" alt="Course Image"></a>
                         </div>
                         <div class="info">
                             <span class="price">Free</span>
@@ -56,7 +56,7 @@ class Courses extends HTMLElement {
                                 </div>
                                 <span class="instructor-name">Prasad Junghare</span>
                             </div>
-                            <h3 class="title"><a href="course-details-standard-sidebar.html">"Mastering GitHub: Open Courses for Enthusiasts"</a></h3>
+                            <h3 class="title"><a href="#">"Mastering GitHub: Open Courses for Enthusiasts"</a></h3>
                             <ul class="meta">
                                 <li><i class="fas fa-file-alt"></i>23 Lessons</li>
                                 <li><i class="fas fa-user-alt"></i>5 Students Pre-batch</li>
@@ -70,7 +70,8 @@ class Courses extends HTMLElement {
                 <div class="col max-mb-30" data-aos="fade-up">
                     <div class="course-4">
                         <div class="thumbnail">
-                            <a href="course-details-standard-sidebar.html" class="image"><img src="assets/images/courses/js.png" alt="Course Image"></a>
+                            <a href="#" class="image"><img src="assets/images/courses/js.png" alt="Course Image"></a>
+                           <!-- <a href="course-details-standard-sidebar.html" class="image"><img src="assets/images/courses/js.png" alt="Course Image"></a>-->
                         </div>
                         <div class="info">
                             <span class="price">$36<span>.00</span></span>
@@ -80,7 +81,7 @@ class Courses extends HTMLElement {
                                 </div>
                                 <span class="instructor-name">Prasad Junghare</span>
                             </div>
-                            <h3 class="title"><a href="course-details-standard-sidebar.html">Open Programming Courses for Everyone: Javascript</a></h3>
+                            <h3 class="title"><a href="#">Open Programming Courses for Everyone: Javascript</a></h3>
                             <ul class="meta">
                                 <li><i class="fas fa-file-alt"></i>20 Lessons</li>
                                 <li><i class="fas fa-user-alt"></i>5 Students Pre-batch</li>
