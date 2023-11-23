@@ -181,7 +181,7 @@ class Header extends HTMLElement {
 
                                 <div class="header-cart">
 
-                                    <a class="header-cart-btn" href="shopping-cart.html"><span
+                                    <a class="header-cart-btn" href="#"><span
                                             class="cart-count">2</span><i class="fas fa-shopping-basket"></i></a>
 
                                     <div class="header-mini-cart">
