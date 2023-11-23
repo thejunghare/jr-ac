@@ -115,8 +115,8 @@ class Header extends HTMLElement {
                                                     Teacher</span></a></li>
                                         <li><a href="#"><span class="menu-text">Profile</span></a></li>
                                         <li><a href="#"><span class="menu-text">Checkout</span></a></li>-->
-                                        <!--<li><a href="checkout.html"><span class="menu-text">Checkout</span></a></li>-->
-                                        <li class="has-children">
+                                        <!-- <li><a href="checkout.html"><span class="menu-text">Checkout</span></a></li> -->
+                                        <!--<li class="has-children">
                                             <a href="course-details-sticky-feature-bar.html"><span
                                                     class="menu-text">Single Layout</span></a>
                                             <span class="menu-toggle"><i class="fas fa-angle-down"></i></span>
