@@ -16,7 +16,7 @@ class Header extends HTMLElement {
                     <div class="col-xl-3 col-auto">
                         <div class="header-logo">
                             <a href="index.html">
-                                <img class="dark-logo" src="assets/images/jr1.png" alt="Learts Logo">
+                                <img class="dark-logo" src="assets/images/jr.png" alt="Learts Logo">
                                 <img class="light-logo" src="assets/images/logo.pn" alt="Learts Logo">
                             </a>
                         </div>
